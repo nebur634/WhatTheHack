@@ -1,4 +1,4 @@
-version: '4'
+version: '3.3'
 services:
   rockpaperscissors-sql:
     image: mcr.microsoft.com/mssql/server
